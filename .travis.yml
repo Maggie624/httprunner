@@ -8,6 +8,6 @@ matrix:
       dist: xenial
 install:
   - pip install poetry
-  - poetry istall -vvv
+  - poetry install -vvv
 script:
   - python test_mubu_login.py
