@@ -18,6 +18,6 @@ class TestLogin(unittest.TestCase):
         response = requests.post(url=url, headers=headers, data=data, verify=False).json()
         assert response['code'] == 0
 
-if __name__ == "__main__":
-    unittest.main()
+# if __name__ == "__main__":
+#     unittest.main()
 
