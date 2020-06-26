@@ -13,3 +13,5 @@ script:
 #  - python test_mubu_login.py
   - coverage run --source=test_mubu_login -m unittest discover
   - coverage report
+after_success:
+  - poetry run coveralls
