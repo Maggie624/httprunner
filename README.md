@@ -1,0 +1,2 @@
+[![Build Status](https://www.travis-ci.org/Maggie624/httprunner.svg?branch=master)](https://www.travis-ci.org/Maggie624/httprunner)
+[![Coverage Status](https://coveralls.io/repos/github/Maggie624/httprunner/badge.svg?branch=master)](https://coveralls.io/github/Maggie624/httprunner?branch=master)
